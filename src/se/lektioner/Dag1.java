@@ -10,5 +10,7 @@ public class Dag1 {
 
         System.out.println("Look at this beautiful face \t" + face);
 
+        System.out.println("Look at even more faces \t"+face+"    "+face+"    "+face);
+
     }
 }
